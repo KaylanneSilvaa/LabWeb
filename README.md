@@ -45,9 +45,32 @@ A equipe responsável pelo projeto está com junção com os cursos de administr
   - `Etapa 3`: Planejamento
   - `Etapa 4`: Finanças
   
-  
-  
-  
+  <p align="center">
+  <strong>DIFICULDADES E TEMPO DE PROJEÇÃO
+    
+    A maior dificuldade do projeto foi na escolha das linguagens para utilização na construção do Back-end , em meios considerados da equipe foram separados em pontos como foi a separação de cada uma das partes agregadas . 
+    * Design do projeto com base no Figma
+    * Front-end 
+    * Back-end
+    * Banco de Dados 
+    * Estruturação e organização
+    O ponto no qual se levou mais tempo foi o Design , no qual existe toda a preparação do projeto que foi desde o Scrum semanal até o ponto de inicio do site , basicamente reuniões , ferramentas e funções no qual foram utilizados para a entrega eficiente do Projeto . 
+    A estrutura do projeto foi colocada para atuar em concomitância para beneficiar e otimizar a jornada do cliente , foram buscadas interfaces acessíveis e elementos de interação do público de modo que ele possa usufruir de todo o produto . 
+    
+   Foi usada uma categoria de estruturação modelo , de acordo com as cores , fontes e exemplos de produtos do governo do estado do ceará . 
+    #77DB73 - GREEN
+    #FFDB33 - YELLOW
+    #D9D9D9 - LIGHT GRAY
+    #FFFFFF - WHITE
+    #B5CCB1 - TURQUOISE
+    
+    Além disso a estrutura conta com telas de login , sombreamento de modo que o cliente não se sinta inseguro com a cor e imagens de acordo com o imóvel no qual ele procura . Além de fontes de letras perfeitamente visiveis e em tamanhos consideráveis para não ocorrer nenhuma má leitura . 
+    
+    
+    
+    
+  ![WhatsApp Image 2023-04-15 at 20 16 41](https://user-images.githubusercontent.com/130693362/232257959-8544759d-c8db-47e6-b2ec-cc15053e5019.jpeg)
+
   
   
   
