@@ -39,7 +39,7 @@ Com este site, sua empresa possui muito mais artifícios para promover o seu pro
   
   
 
-  [Untitled-_1_.png.zip](https://github.com/KaylanneSilvaa/LabWeb/files/11240728/Untitled-_1_.png.zip)
+  ![Untitled-_1_.png.zip](https://github.com/KaylanneSilvaa/LabWeb/files/11240728/Untitled-_1_.png.zip)
 
 
   
