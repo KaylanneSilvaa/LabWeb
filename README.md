@@ -17,8 +17,7 @@ O ponto principal é servir como um conjunto de táticas de divulgação e açõ
 Nosso site está à disposição das pessoas para facilitar suas vidas nos mais diversos aspectos . Criado para corretores de imóveis e proprietários de imóveis que exibam e seja um ponto de contato entre o cliente e o imóvel.
 
     <p align="center">
-    </h1>![venda e compra dinheiro](https://user-images.githubusercontent.com/130693362/232252403-c4f75a88-0dac-4270-afb8-644be434c750.png)
-
+    </h1> <a https://ibb.co/rZs6mYV<>;a>
     
 <p align="center">
 <strong>STATUS DO PROJETO
