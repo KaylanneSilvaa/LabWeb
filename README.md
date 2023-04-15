@@ -38,8 +38,8 @@ Com este site, sua empresa possui muito mais artifícios para promover o seu pro
 - `Funcionalidade 4`: Comprar com segurança
   
   
-![WhatsApp Image 2023-04-15 at 19 26 59](https://user-images.githubusercontent.com/130693362/232255755-2ff68b10-e16d-4d96-90f1-273fa04d9129.jpeg)
 
+![WhatsApp Image 2023-04-15 at 19 32 06](https://user-images.githubusercontent.com/130693362/232255874-67a2c5da-4b30-4a44-a9fc-5a1452295984.jpeg)
 
 
   
