@@ -17,4 +17,6 @@ O ponto principal é servir como um conjunto de táticas de divulgação e açõ
 Nosso site está à disposição das pessoas para facilitar suas vidas nos mais diversos aspectos . Criado para corretores de imóveis e proprietários de imóveis que exibam e seja um ponto de contato entre o cliente e o imóvel.
 
     
+<p align="center">
+  <strong>STATUS DO PROJETO
     
