@@ -41,8 +41,11 @@ Com este site, sua empresa possui muito mais artifícios para promover o seu pro
 
 ![WhatsApp Image 2023-04-15 at 19 32 06](https://user-images.githubusercontent.com/130693362/232255874-67a2c5da-4b30-4a44-a9fc-5a1452295984.jpeg)
 
-
-  
+A equipe responsável pelo projeto está com junção com os cursos de administração e comércio , pois os mesmos utilizam da boa forma do contato cliente e vendedor .
+  - `Etapa 1`: Auditoria
+  - `Etapa 2`: Consultoria
+  - `Etapa 3`: Planejamento
+  - `Etapa 4`: Finanças
   
   
   
