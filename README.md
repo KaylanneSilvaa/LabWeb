@@ -16,6 +16,6 @@ Projeto em desenvolvimento para a disciplina de laboratório Web do curso de inf
 O ponto principal é servir como um conjunto de táticas de divulgação e ações de merchandising que as empresas situadas neste segmento irão utilizar para ganhar mais credibilidade , atrair público e fidelizar antigos clientes .
 Nosso site está à disposição das pessoas para facilitar suas vidas nos mais diversos aspectos . Criado para corretores de imóveis e proprietários de imóveis que exibam e seja um ponto de contato entre o cliente e o imóvel.
 
-    <p align="center">
-      </h1> <a href="https://ibb.co/rZs6mYV"><img src="https://i.ibb.co/dQg2rFR/venda-e-compra-dinheiro.png" alt="venda-e-compra-dinheiro" border="0"></a>
+    
+    </h1> <a href="https://ibb.co/rZs6mYV"><img src="https://i.ibb.co/dQg2rFR/venda-e-compra-dinheiro.png" alt="venda-e-compra-dinheiro" border="0"></a>
      </p>
