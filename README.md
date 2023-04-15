@@ -2,7 +2,7 @@
 
 <h1 align="center"> Vendas & Compras </h1>
 
-<p></h1> <a href="https://ibb.co/xqFLVLJ"><img src="https://i.ibb.co/MkBSqSM/marca-de-im-veis.jpg" alt="marca-de-im-veis" border="0"></a></p> text-align: center;
+<p><p></h1> <a href="https://ibb.co/xqFLVLJ"><img src="https://i.ibb.co/MkBSqSM/marca-de-im-veis.jpg" alt="marca-de-im-veis" border="0"></a></p></p>
 
 
 Nosso site está à disposição das pessoas para facilitar suas vidas nos mais diversos aspectos, criado para corretores de imóveis e proprietários de imóveis que exibam os imóveis que tem disponibilidade e seja um ponto de contato entre o cliente e o imóvel.
