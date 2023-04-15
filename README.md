@@ -70,7 +70,7 @@ A equipe responsável pelo projeto está com junção com os cursos de administr
     
     
     
-  ![WhatsApp Image 2023-04-15 at 20 16 41](https://user-images.githubusercontent.com/130693362/232257959-8544759d-c8db-47e6-b2ec-cc15053e5019.jpeg)
+ ![WhatsApp Image 2023-04-15 at 20 16 41](https://user-images.githubusercontent.com/130693362/232257959-8544759d-c8db-47e6-b2ec-cc15053e5019.jpeg)
 
   
   
