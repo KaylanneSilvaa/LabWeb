@@ -18,5 +18,8 @@ Nosso site está à disposição das pessoas para facilitar suas vidas nos mais 
 
     
 <p align="center">
-  <strong>STATUS DO PROJETO
+<strong>STATUS DO PROJETO
+  <h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
     
