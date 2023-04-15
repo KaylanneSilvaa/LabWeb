@@ -23,3 +23,13 @@ Nosso site está à disposição das pessoas para facilitar suas vidas nos mais 
     :construction:  Projeto em construção  :construction:
 </h4>
     
+Com este site, sua empresa possui muito mais artifícios para promover o seu produto. Além do mais, por meio da criação de conteúdo você consegue provar para o seu cliente que entende do assunto e que tem capacidade técnica para ser a solução dos problemas que ele enfrenta.
+  
+  
+  # :hammer: Funcionalidades do projeto
+  
+  
+  - `Funcionalidade 1`: Comunicar
+- `Funcionalidade 2`: Divulgar
+- `Funcionalidade 3`: Vender ; Entregar seu produto
+- `Funcionalidade 4`: Comprar com segurança
