@@ -1,4 +1,4 @@
-<h1 align="center"> Site de venda de imóveis </h1>
+<h1 align="center"> Site de imóveis </h1>
 
 <h1 align="center"> Vendas & Compras </h1>
 
