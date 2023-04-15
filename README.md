@@ -16,6 +16,9 @@ Projeto em desenvolvimento para a disciplina de laboratório Web do curso de inf
 O ponto principal é servir como um conjunto de táticas de divulgação e ações de merchandising que as empresas situadas neste segmento irão utilizar para ganhar mais credibilidade , atrair público e fidelizar antigos clientes .
 Nosso site está à disposição das pessoas para facilitar suas vidas nos mais diversos aspectos . Criado para corretores de imóveis e proprietários de imóveis que exibam e seja um ponto de contato entre o cliente e o imóvel.
 
+    <p align="center">
+    </h1>![venda e compra dinheiro](https://user-images.githubusercontent.com/130693362/232252403-c4f75a88-0dac-4270-afb8-644be434c750.png)
+
     
 <p align="center">
 <strong>STATUS DO PROJETO
@@ -33,3 +36,39 @@ Com este site, sua empresa possui muito mais artifícios para promover o seu pro
 - `Funcionalidade 2`: Divulgar
 - `Funcionalidade 3`: Vender ; Entregar seu produto
 - `Funcionalidade 4`: Comprar com segurança
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
