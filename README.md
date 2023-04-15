@@ -21,10 +21,8 @@ Nosso site está à disposição das pessoas para facilitar suas vidas nos mais 
   ![venda e compra dinheiro](https://user-images.githubusercontent.com/130693362/232254001-1e0d60d1-2a22-4aac-b9d2-3870348b014d.png)
 
 <p align="center">
-<strong>STATUS DO PROJETO
-  <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
     
 Com este site, sua empresa possui muito mais artifícios para promover o seu produto. Além do mais, por meio da criação de conteúdo você consegue provar para o seu cliente que entende do assunto e que tem capacidade técnica para ser a solução dos problemas que ele enfrenta.
   
