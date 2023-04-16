@@ -98,9 +98,15 @@ A equipe responsável pelo projeto está com junção com os cursos de administr
   - `Method 2`: NextJS
   
   
-
+<p align="center">Implementações futuras ✔ <p>
+O projeto está em construção , neste modo os próximos passos que a equipe deseja implementar é o inicio do Front com uma melhor base , para que os usuários utilizem e se contentem com o modelo feito para eles . A implementação da melhor estrutura vai ser o passe de porta de entrada para que tenhamos êxito na elaboração do mesmo . O uso das fontes de letras formais e cores que sejam do agrado e satisfação do cliente é a idéia principal . Imagens que remetam aos imóveis nos quais os mesmos gostariam de realizar sua compra em uma qualidade boa e visível . 
+A comunicação entre equipe Front-end - e equipe Back-end será primordial na execução do projeto , a utilização da boa forma nas tecnologias que iram ser utilizadas e aproveitadas . 
+Em relação ao Back-end foi escolhida a tecnologia de JS , por ser uma estrutura base de forma agradável e fácil de se utilizar , pois a mesma possui um alto nível com tipagem dinâmica e multiparadigma , juntamente com HTML/CSS que será aplicado diretamente para adicionar os estilos , cores e formas de todo o site . 
   
 
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
   
   
   
