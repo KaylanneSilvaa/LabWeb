@@ -109,8 +109,15 @@ Em relação ao Back-end foi escolhida a tecnologia de JS , por ser uma estrutur
 </h4>
   
   
-    - `color 1`: https://github.com/QueilaNaftalii
-
+    <p align="center">𝐂𝐎𝐋𝐀𝐁𝐎𝐑𝐀𝐃𝐎𝐑𝐄𝐒</P>
+    * https://github.com/QueilaNaftalii
+    
+    * https://github.com/KaylanneSilvaa
+    
+    * https://github.com/L1ucas
+    
+    * https://github.com/WilkerLimaSoares
+    
 
   
   
