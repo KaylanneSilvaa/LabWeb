@@ -109,7 +109,7 @@ Em relação ao Back-end foi escolhida a tecnologia de JS , por ser uma estrutur
 </h4>
   
   
-     𝐂𝐎𝐋𝐀𝐁𝐎𝐑𝐀𝐃𝐎𝐑𝐄𝐒 
+    𝐂𝐎𝐋𝐀𝐁𝐎𝐑𝐀𝐃𝐎𝐑𝐄𝐒 
     
     
      https://github.com/QueilaNaftalii
