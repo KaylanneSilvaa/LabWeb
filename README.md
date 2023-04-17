@@ -112,7 +112,7 @@ Em relação ao Back-end foi escolhida a tecnologia de JS , por ser uma estrutur
      𝐂𝐎𝐋𝐀𝐁𝐎𝐑𝐀𝐃𝐎𝐑𝐄𝐒 
     
     
-    -[teste] (https://github.com/QueilaNaftalii)
+     https://github.com/QueilaNaftalii
     
      https://github.com/KaylanneSilvaa
     
